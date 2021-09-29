@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadir Balçın</h1>
 <h3 align="center">Web And Mobile Developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [kadirbalcin.com](https://kadirbalcin.com)
+- 👨‍💻 All of my projects are available at [akro.dev](https://akro.dev)
 
 - 💬 Ask me about **react, react-native, javascript, typescript, python**
 
