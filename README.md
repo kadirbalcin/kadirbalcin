@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [akro.dev](https://akro.dev)
 
-- 💬 Ask me about **react, react-native, javascript, typescript, python**
+- 💬 Ask me about **react, react-native, javascript, typescript**
 
 - 📫 How to reach me **kadirbalcin145@gmail.com**
 
