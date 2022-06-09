@@ -18,6 +18,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+    <a href="https://php.net" target="_blank">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
+        alt="php"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://aws.amazon.com" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
