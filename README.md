@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kadirbalcin145@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kadir-bal%C3%A7%C4%B1n-703235190/](https://www.linkedin.com/in/kadir-bal%C3%A7%C4%B1n-703235190/)
+- 📄 Know about my experiences [[https://www.linkedin.com/in/kadir-bal%C3%A7%C4%B1n-703235190/](https://www.linkedin.com/in/kadirbalcin/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
