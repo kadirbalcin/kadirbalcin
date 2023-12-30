@@ -28,8 +28,8 @@
     </a>
     <a href="https://developer.apple.com/swift/" target="_blank">
       <img
-        src="[https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg](https://developer.apple.com/swift/images/swift-og.png)"
-        alt="php"
+        src="https://developer.apple.com/swift/images/swift-og.png"
+        alt="swift"
         width="40"
         height="40"
       />
