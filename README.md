@@ -26,6 +26,14 @@
         height="40"
       />
     </a>
+    <a href="https://developer.apple.com/swift/" target="_blank">
+      <img
+        src="[https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg](https://developer.apple.com/swift/images/swift-og.png)"
+        alt="php"
+        width="40"
+        height="40"
+      />
+    </a>
     <a href="https://aws.amazon.com" target="_blank">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -281,14 +289,6 @@
       <img
         src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
         alt="unity"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-        alt="xd"
         width="40"
         height="40"
       />
